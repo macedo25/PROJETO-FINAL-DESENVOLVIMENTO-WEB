@@ -1,16 +1,16 @@
-# 🛒 Projeto Final: Protótipo de E-commerce - Front-End
+#  Projeto Final
 
 Olá, Professor(a)! Este é meu projeto final de Desenvolvimento Web Front-End, onde escolhi desenvolver um protótipo de e-commerce fictício focado em tecnologia.
 
 ---
 
-### 🎯 1. Objetivos e Escolhas do Projeto
+###  1. Objetivos e Escolhas do Projeto
 
 O principal objetivo deste trabalho foi aplicar e consolidar os conhecimentos adquiridos em HTML5, CSS3 e JavaScript. Decidi implementar um carrinho de compras interativo, pois ele exigiu o uso de lógica de cálculo e manipulação dinâmica do DOM, cumprindo um dos requisitos lógicos obrigatórios.
 
 **As cores (Preto e Cinza Escuro) foram escolhidas** para transmitir uma sensação de modernidade e foco, típica de lojas de tecnologia.
 
-### ✨ 2. Funcionalidades Implementadas
+###  2. Funcionalidades Implementadas
 
 Abaixo, detalho as funcionalidades que demonstram os requisitos:
 
@@ -25,7 +25,7 @@ Abaixo, detalho as funcionalidades que demonstram os requisitos:
         3.  **Manipulação do DOM** para criar novos itens na lista do carrinho e remover itens.
     * **Validação do Formulário:** O formulário de contato realiza uma **validação básica** (ex: verifica o mínimo de caracteres no nome e o formato do e-mail) antes de mostrar um alerta de sucesso.
 
-### 🛠️ 3. Tecnologias Utilizadas
+###  3. Tecnologias Utilizadas
 
 * **HTML5**
 * **CSS3** (Incluindo Flexbox e Grid)
